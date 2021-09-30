@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omi8655@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1p36s7SF82R96J2-gCypdEemzMKcoMngX/view?usp=sharing](https://drive.google.com/file/u/1/d/1p36s7SF82R96J2-gCypdEemzMKcoMngX/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1p36s7SF82R96J2-gCypdEemzMKcoMngX/view?usp=sharing](https://drive.google.com/file/u/1/d/1p36s7SF82R96J2-gCypdEemzMKcoMngX/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
