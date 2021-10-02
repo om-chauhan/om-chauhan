@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_omi_op" target="blank"><img src="https://img.shields.io/twitter/follow/_omi_op?logo=twitter&style=for-the-badge" alt="_omi_op" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Snippets](https://github.com/om-chauhan/flutter-snippets/), [Mera Desh](https://play.google.com/store/apps/details?id=com.adbytee.mera_desh)
+- 🔭 I’m currently working on [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=om-chauhan.flutter-snippets), [Mera Desh](https://play.google.com/store/apps/details?id=com.adbytee.mera_desh)
 
 - 🌱 I’m currently learning **Flutter, Dart,**
 
