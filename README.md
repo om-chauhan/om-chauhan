@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart,**
 
-- 👨‍💻 All of my projects are available at [https://omdevfolio.netlify.app/](https://omdevfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://omdevfolio.netlify.app/](https://omi-baba.netlify.app/)
 
 - 💬 Ask me about **Flutter, Dart**
 
