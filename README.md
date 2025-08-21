@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://om-chauhan.co.in/](https://om-chauhan.co.in/)
+- 👨‍💻 All of my projects are available at [https://om-chauhan.dev/](https://om-chauhan.dev/)
 
 - 💬 Ask me about **Dart, Flutter**
 
